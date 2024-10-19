@@ -1,7 +1,7 @@
 ### Hi there, I'm Daniel! 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielbet21&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielbet21&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielbet21)
 
 ### 📋 languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
